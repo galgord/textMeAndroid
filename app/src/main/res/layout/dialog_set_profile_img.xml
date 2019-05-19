@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="2dp">
+
+    <TextView
+        android:id="@+id/tvProfileCamera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/take_a_photo"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="8dp"
+        android:drawableEnd="@drawable/camera"
+        android:drawablePadding="4dp"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:textStyle="bold"
+        android:padding="8dp"
+        />
+
+    <TextView
+        android:id="@+id/tvProfileGallery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_from_gallery"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="8dp"
+        android:drawableEnd="@drawable/gallery"
+        android:drawablePadding="4dp"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:textStyle="bold"
+        android:padding="8dp"
+        />
+</LinearLayout>

@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "621896222457",
+    "firebase_url": "https://textme-4df08.firebaseio.com",
+    "project_id": "textme-4df08",
+    "storage_bucket": "textme-4df08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621896222457:android:0f225e39ec2c72d9",
+        "android_client_info": {
+          "package_name": "com.example.textme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621896222457-see6f3f1p5glag8e76lceeerljga6qmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.textme",
+            "certificate_hash": "96c6a4816d71aa939d8822eeec64d84ddb4159b6"
+          }
+        },
+        {
+          "client_id": "621896222457-den66lhc1o30oh4lorcm70fo0peq20mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsev6iyguX1l1Ki4juajqOhwCtGZEku_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621896222457-den66lhc1o30oh4lorcm70fo0peq20mk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621896222457-fk0r1v8sq3drcpqg780iienlojeof6ak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.galGordon.TextMe"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621896222457:android:a3094bd28f97060d",
+        "android_client_info": {
+          "package_name": "me.ofir.apps.textme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621896222457-cqe4bcpo2mfe0greigkj6ff2bbb3uf24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.ofir.apps.textme",
+            "certificate_hash": "7d34c0d869066ec10d98d36e0a18b60bbf6745b5"
+          }
+        },
+        {
+          "client_id": "621896222457-den66lhc1o30oh4lorcm70fo0peq20mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsev6iyguX1l1Ki4juajqOhwCtGZEku_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621896222457-den66lhc1o30oh4lorcm70fo0peq20mk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621896222457-fk0r1v8sq3drcpqg780iienlojeof6ak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.galGordon.TextMe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
